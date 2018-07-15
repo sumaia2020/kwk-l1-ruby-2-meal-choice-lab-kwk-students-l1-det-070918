@@ -10,7 +10,7 @@ end
 def lunch(food = "grilled cheese")
   puts "Lunch is the best time for #{food}!"
 end 
-def dinner (food = "salmon" )
+def dinner (food =="salmon" )
   puts"Dinner is the best time for #{food}!"
 end 
 
