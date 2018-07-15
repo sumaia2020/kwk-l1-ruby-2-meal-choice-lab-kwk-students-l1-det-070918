@@ -21,7 +21,7 @@ end
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
 puts breakfast("eggs")
-puts lunch ("sandwitch")
+puts lunch ("broccoli")
 puts dinner ("steak")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
