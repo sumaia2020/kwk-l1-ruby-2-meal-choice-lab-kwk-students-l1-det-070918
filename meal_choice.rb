@@ -12,13 +12,6 @@ def dinner (food = "salmon" )
   puts"Dinner is the best time for #{food}!"
 end 
 
-def meals
-  breakfast
-  lunch
-  dinner
-end 
-meals
-end 
 
 
 
