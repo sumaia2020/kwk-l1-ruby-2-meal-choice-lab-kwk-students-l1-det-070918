@@ -22,7 +22,7 @@ end
 puts snacks("Swedish fish")
 puts breakfast("eggs")
 puts lunch ("broccoli")
-puts dinner ("steak")
+puts dinner ("broccoli")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
